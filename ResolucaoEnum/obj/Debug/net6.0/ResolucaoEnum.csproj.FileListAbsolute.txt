@@ -1,0 +1,15 @@
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\bin\Debug\net6.0\ResolucaoEnum.exe
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\bin\Debug\net6.0\ResolucaoEnum.deps.json
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\bin\Debug\net6.0\ResolucaoEnum.runtimeconfig.json
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\bin\Debug\net6.0\ResolucaoEnum.dll
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\bin\Debug\net6.0\ResolucaoEnum.pdb
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.csproj.AssemblyReference.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.AssemblyInfoInputs.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.AssemblyInfo.cs
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.csproj.CoreCompileInputs.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.dll
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\refint\ResolucaoEnum.dll
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.pdb
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ResolucaoEnum.genruntimeconfig.cache
+C:\Users\amandab\Documents\Workspace_DH\Aula 21062022\enumDictionary\ResolucaoEnum\obj\Debug\net6.0\ref\ResolucaoEnum.dll
